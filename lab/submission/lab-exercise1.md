@@ -10,7 +10,7 @@
   <tr>
     <td>1</td>
     <td>TEAM HAPPY</td>
-    <td></td>
+    <td>5/11/2023</td>
     <th><a href="submissions/lab1/GROUP 1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
